@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "ConsoleApp1\Adapter.csproj", "{55219A94-693C-4963-886C-39208B991889}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.csproj", "{55219A94-693C-4963-886C-39208B991889}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observe", "Observe\Observe.csproj", "{037A4077-6398-4A89-B484-6709D09CF15E}"
 EndProject
